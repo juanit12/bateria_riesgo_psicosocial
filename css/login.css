@@ -1,0 +1,22 @@
+.cuerpito{
+    background-image: url("https://fondosmil.com/fondo/24522.jpg");
+    background-position: center;
+}
+.navbar-brand img{
+    height: 50px;
+    height: 50px;
+}
+.col{
+    display: flex;
+    background-color: aliceblue;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 800px;
+    margin-top: 2%;
+    border-radius: 5px;
+    flex-direction: column;
+    opacity: 0.9;
+}
+.logeo{
+    opacity: 1.0;
+}
